@@ -1,0 +1,10 @@
+C:\Users\MTCStudent\source\repos\RetailPriceCal\RetailPriceCal\bin\Debug\RetailPriceCal.exe.config
+C:\Users\MTCStudent\source\repos\RetailPriceCal\RetailPriceCal\bin\Debug\RetailPriceCal.exe
+C:\Users\MTCStudent\source\repos\RetailPriceCal\RetailPriceCal\bin\Debug\RetailPriceCal.pdb
+C:\Users\MTCStudent\source\repos\RetailPriceCal\RetailPriceCal\obj\Debug\RetailPriceCal.csprojResolveAssemblyReference.cache
+C:\Users\MTCStudent\source\repos\RetailPriceCal\RetailPriceCal\obj\Debug\RetailPriceCal.Form1.resources
+C:\Users\MTCStudent\source\repos\RetailPriceCal\RetailPriceCal\obj\Debug\RetailPriceCal.Properties.Resources.resources
+C:\Users\MTCStudent\source\repos\RetailPriceCal\RetailPriceCal\obj\Debug\RetailPriceCal.csproj.GenerateResource.Cache
+C:\Users\MTCStudent\source\repos\RetailPriceCal\RetailPriceCal\obj\Debug\RetailPriceCal.csproj.CoreCompileInputs.cache
+C:\Users\MTCStudent\source\repos\RetailPriceCal\RetailPriceCal\obj\Debug\RetailPriceCal.exe
+C:\Users\MTCStudent\source\repos\RetailPriceCal\RetailPriceCal\obj\Debug\RetailPriceCal.pdb
