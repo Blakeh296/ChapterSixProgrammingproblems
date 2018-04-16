@@ -1,0 +1,10 @@
+C:\Users\MTCStudent\Desktop\ChapterSixProgrammingproblems\RetailPriceCal\Falling Distance\bin\Debug\Falling Distance.exe.config
+C:\Users\MTCStudent\Desktop\ChapterSixProgrammingproblems\RetailPriceCal\Falling Distance\bin\Debug\Falling Distance.exe
+C:\Users\MTCStudent\Desktop\ChapterSixProgrammingproblems\RetailPriceCal\Falling Distance\bin\Debug\Falling Distance.pdb
+C:\Users\MTCStudent\Desktop\ChapterSixProgrammingproblems\RetailPriceCal\Falling Distance\obj\Debug\Falling_Distance.Form1.resources
+C:\Users\MTCStudent\Desktop\ChapterSixProgrammingproblems\RetailPriceCal\Falling Distance\obj\Debug\Falling_Distance.Properties.Resources.resources
+C:\Users\MTCStudent\Desktop\ChapterSixProgrammingproblems\RetailPriceCal\Falling Distance\obj\Debug\FallingDistance.csproj.GenerateResource.Cache
+C:\Users\MTCStudent\Desktop\ChapterSixProgrammingproblems\RetailPriceCal\Falling Distance\obj\Debug\FallingDistance.csproj.CoreCompileInputs.cache
+C:\Users\MTCStudent\Desktop\ChapterSixProgrammingproblems\RetailPriceCal\Falling Distance\obj\Debug\Falling Distance.exe
+C:\Users\MTCStudent\Desktop\ChapterSixProgrammingproblems\RetailPriceCal\Falling Distance\obj\Debug\Falling Distance.pdb
+C:\Users\MTCStudent\Desktop\ChapterSixProgrammingproblems\RetailPriceCal\Falling Distance\obj\Debug\FallingDistance.csprojResolveAssemblyReference.cache
